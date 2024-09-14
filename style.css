@@ -18,7 +18,7 @@ h2 {
     color: rgb(30, 33, 199)
 }
 body > main article {
-    color: rgb(30, 33, 199);
+    color: rgb(226, 255, 60);
     width: 70%;
     margin: auto;
     padding: 8px;
@@ -78,7 +78,9 @@ text-decoration: none;
 }
 body > footer {
     background-color: palegoldenrod;
+    color: olivedrab;
     display: flex;
+    justify-content: space-around;
 }
 img {
     border-radius: 100%;
